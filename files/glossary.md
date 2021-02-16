@@ -14,7 +14,7 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## JavaScript
-
+  
 
 ## Yarn
 
@@ -53,7 +53,7 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## VSCode
-
+Visual Studio Code is a free source-code editor made by Microsoft that is mainly focused on usability. It has transcended traditional coding softwares with a sleek and modern look. 
 
 ## Syntactically Awesome Style Sheets (Sass)
 
